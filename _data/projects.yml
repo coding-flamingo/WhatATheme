@@ -1,20 +1,48 @@
-- name: First Project
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
-- name: Second Project
-  link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
-- name: Third Project
-  link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
-- name: Fourth Project
-  link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
-- name: Fifth Project
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
+- name: Blazor
+  image: 'https://i.ytimg.com/vi/LCNelhslRII/maxresdefault.jpg'
+  link: 'https://youtu.be/3BWsg4iANSc?list=PLUQ4D25da8kGLmCm3a_p3gwkGxeGIHEbe'
+  description: This playlist has all the videos where we work with Blazor.
+- name: Kubernetes
+  link: 'https://youtu.be/G13WrxlYjHM?list=PLUQ4D25da8kFNOQ51L7eRABnEuL86ybmY'
+  image: 'https://i.ytimg.com/vi/G13WrxlYjHM/maxresdefault.jpg'
+  description: This playlist has all the videos where we work with Kubernetes.
+- name: Azure Features
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kE_Q0GvfQmLt-qz94ydFrzj&v=yRf-doZMIBw
+  image: 'https://i.ytimg.com/vi/yRf-doZMIBw/maxresdefault.jpg'
+  description: In this playlist we explore Azure and some of the it's features.
+- name: Azure SQL
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kEjSQpjcTLcyyC1-cSqiCVl&v=fZG_xM9URvU
+  image: 'https://i.ytimg.com/vi/fZG_xM9URvU/maxresdefault.jpg'
+  description: In this playlist we set up Azure SQL and connect to it using MSIs.
+- name: Web  Apps
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kG2JuSWHjxKIb-5ax8WbAnS&v=iko8HlO_qog
+  image: 'https://i.ytimg.com/vi/iko8HlO_qog/maxresdefault.jpg'
+  description: This playlist has all the videos where we build web applications.
+- name: CI/CD
+  link: >-
+    https://www.youtube.com/watch?v=S6asgC_ekFk&list=PLUQ4D25da8kHNFrGPXMzXlyb-LLte6gso
+  image: 'https://i.ytimg.com/vi/iko8HlO_qog/maxresdefault.jpg'
+  description: In this playlist we create CI/CD pipelines for cloud providers.
+- name: .NET Core
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kF-4qVz8cDKzO6sI2ndkRqw&v=8vxA711F5dY
+  image: 'https://i.ytimg.com/vi/8vxA711F5dY/maxresdefault.jpg'
+  description: In this playlist we make some our asp.NET Core projects.
+- name: WireGuard
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kGcfAFDwiGlfmf2mSODSIoY&v=CwcyG5VV744
+  image: 'https://i.ytimg.com/vi/CwcyG5VV744/maxresdefault.jpg'
+  description: We create a WireGuard VPN and connect clients to it.
+- name: Hot Dog Application
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kE8svt5NfzxjWzVuqgFW_pA&v=LCNelhslRII
+  image: 'https://i.ytimg.com/vi/TvHTg0SurA4/maxresdefault.jpg'
+  description: In this playlist we use ML.NET to classify images.
+- name: Crypto Trader
+  link: >-
+    https://www.youtube.com/watch?list=PLUQ4D25da8kHkIWskfWtPmupkNHqtsLVX&v=8vxA711F5dY
+  image: 'https://i.ytimg.com/vi/8vxA711F5dY/maxresdefault.jpg'
+  description: We create a cryptocurrency trader for the Bittrex exchange.
