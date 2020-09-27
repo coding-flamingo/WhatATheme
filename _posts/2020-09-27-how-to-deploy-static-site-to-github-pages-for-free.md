@@ -158,9 +158,9 @@ Going back to the GitHub Action, we then have to deploy the site to gh-pages. To
 
 2. Scroll down to the GitHub Pages section:
 
-![GitHub Settings](/assets/images/ghPagesEmpty.jpg)
+![GitHub Pages](/assets/images/ghPagesEmpty.jpg)
 
 3.  Select your GitHub pages branch (default is gh-pages) and click save. 
 4.  Done! go To de site and enjoy your new Site :)
 
-![GitHub Settings](/assets/images/ghPages.jpg)
+![GitHub Pages](/assets/images/ghPages.jpg)
