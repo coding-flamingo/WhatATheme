@@ -12,6 +12,7 @@ tags:
 
 In this post is part of the video series where we deploy a static site to different cloud providers. In this post we will look at how to deploy to GitHub Pages.
 
+you can find all the code in: https://github.com/coding-flamingo/BlazorStaticDeploy
 ## Video Version
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zndd7Tp16PA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Text Version
