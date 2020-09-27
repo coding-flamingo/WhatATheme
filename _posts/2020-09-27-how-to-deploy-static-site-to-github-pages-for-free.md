@@ -125,6 +125,7 @@ Going back to the GitHub Action, we then have to deploy the site to gh-pages. To
 3. You can set a `target_branch` but I am using the default that is 'gh-pages' but if you are going to use a different branch you set the name here. 
 4. I set jekyll to false since this is not a jekyll site. 
 5. I pass the `GITHUB_TOKEN` from the github secrets (in the next section I will show how to set it)
+
 #### Getting a GitHub Token
 1. In GitHub, Click on your user picture on the top right and click on settings.
 2.  Click on Developer settings:
@@ -138,6 +139,7 @@ Going back to the GitHub Action, we then have to deploy the site to gh-pages. To
 7. Give select the full control of private repositories (**note:** this will give it permission to manage all your public and private repos so make sure you treat this token as a password)
 8.  Click the Generate button. 
 9.  Copy the token created. 
+
 #### Saving the GitHub Token
 1.  Go back to your repo and click on the settings tab:
 
@@ -148,9 +150,11 @@ Going back to the GitHub Action, we then have to deploy the site to gh-pages. To
 ![GitHub Settings](/assets/images/RepoSecrets.jpg)
 4. Create a new Secret called `GH_TOKEN` **Note:** the name is the same as we specified in the GitHub Action. 
 5. Paste the token you copied before as the secret and save it. 
+
 #### Commit and Push
 1. commit and push to the branch you set as the trigger in the GitHub Action to trigger the action. 
 2. in your repo go to Actions and make sure the action ran successfully. 
+
 #### Enabling GH Pages on Your Repo
 1. In your repo go to settings:
 

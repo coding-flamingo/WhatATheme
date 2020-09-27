@@ -22,6 +22,7 @@ you can find all the code in: https://github.com/coding-flamingo/BlazorStaticDep
 1. Have a Static Site in a GitHub repo. 
 2. Have an AWS account with permissions to create S3 Buckets
 3. An IAM Role with API credentials for GitHub to push to your bucket.
+
 ### Tutorial
 #### Creating the S3 Bucket
 1. Go to the S3 Bucket console and create click on create new bucket. 
@@ -36,6 +37,7 @@ you can find all the code in: https://github.com/coding-flamingo/BlazorStaticDep
 
 8.  Click Next. 
 9.  Review that it all looks good, and click 'Create bucket'.
+
 #### Enabling Static Site on S3 Bucket
 1. Click on the S3 Bucket and Click on Properties.
 
@@ -49,6 +51,7 @@ you can find all the code in: https://github.com/coding-flamingo/BlazorStaticDep
 ![s3staticSite](/assets/images/s3staticSite.jpg)
 
 6.  Click Save.
+
 #### Adding Permissions in the S3 Bucket for GitHub Account
 1. Click on Permissions and copy the bucket ARN:
 
@@ -145,6 +148,7 @@ Now lets go through the variables of this section.
 6. Set the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY to their respective secret name. (keep reading to see how to add those secrets).
 7. Set the AWS_REGION to match my bucket's region. 
 8. Set the SOURCE_DIR to wwwroot which is where my site is. 
+
 #### Adding the Github Secrets
 1.  Go back to your repo and click on the settings tab:
 
