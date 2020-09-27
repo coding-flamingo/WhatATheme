@@ -147,7 +147,9 @@ Going back to the GitHub Action, we then have to deploy the site to gh-pages. To
 
 2. Then on the left click on Secrets.
 3. Click on new Secret:
+
 ![GitHub Settings](/assets/images/RepoSecrets.jpg)
+
 4. Create a new Secret called `GH_TOKEN` **Note:** the name is the same as we specified in the GitHub Action. 
 5. Paste the token you copied before as the secret and save it. 
 

@@ -156,7 +156,9 @@ Now lets go through the variables of this section.
 
 2. Then on the left click on Secrets.
 3. Click on new Secret:
+
 ![GitHub Settings](/assets/images/RepoSecrets.jpg)
+
 4. Create a new Secret called `AWS_ACCESS_KEY_ID` **Note:** the name is the same as we specified in the GitHub Action. 
 5. Paste the Access Key ID of the AWS IAM user you created for GitHub to upload to the Bucket. 
 6. Create a new Secret called `AWS_SECRET_ACCESS_KEY` **Note:** the name is the same as we specified in the GitHub Action. 
