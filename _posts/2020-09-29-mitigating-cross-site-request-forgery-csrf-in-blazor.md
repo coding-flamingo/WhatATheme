@@ -1,6 +1,7 @@
 ---
 title: Mitigating Cross-Site Request Forgery (CSRF) in Blazor WASM
 layout: post
+comments_id: 2
 post-image: "/assets/images/csrfdiagram.jpg"
 description: In this post we take a look at what is Cross-Site Request Forgery (CSRF)
   and how to mitigate it in Blazor WASM.

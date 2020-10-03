@@ -1,6 +1,7 @@
 ---
 title: How to Deploy Static Site to AWS S3 Bucket from GitHub
 layout: post
+comments_id: 4
 post-image: https://i.ytimg.com/vi/tPRotfTc1e8/maxresdefault.jpg
 description: Let's Take a look at how to deploy a Blazor Static Site to an AWS S3
   Bucket.

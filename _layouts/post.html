@@ -61,6 +61,10 @@ layout: compress
       </div>
     </div>
   </section>
+  {% if page.comments_id %}
+			{% include comments.html %}
+    {% endif %}
+    <br>
   {% include footer.html %}
 </body>
 <script>

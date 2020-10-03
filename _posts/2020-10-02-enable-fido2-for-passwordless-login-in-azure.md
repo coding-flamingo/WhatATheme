@@ -1,6 +1,7 @@
 ---
 title: Enable FIDO2 for Passwordless login in Azure
 layout: post
+comments_id: 1
 post-image: "/assets/images/FIDO2Settings.JPG"
 description: FIDO2 is a great leap forward in Security, by having your users use this
   instead of passwords for day to day usage, you can greatly improve your company's
