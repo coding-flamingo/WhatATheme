@@ -1,6 +1,7 @@
 ---
 title: Create Blazor WASM with AAD Authentication
 layout: post
+comments_id: 7
 post-image: https://i.ytimg.com/vi/6y2dSNX3xcc/maxresdefault.jpg
 tags:
 - Blazor
@@ -49,7 +50,7 @@ First thing we have to do is create an AAD Application for the client side of th
 2. Click on Azure Active Directory.
 3. Select app registrations.
 4.  Click the "New Registration" Button 
-5. In here add your app name (I usually reference that is the cleint side app in the name by adding "client" at the end)
+5. In here add your app name (I usually reference that is the client side app in the name by adding "client" at the end)
 
 ![New AAD App Screen](/assets/images/newaadapp.JPG)  
 
@@ -58,7 +59,7 @@ First thing we have to do is create an AAD Application for the client side of th
 8.Click Register. 
 
 ### Giving the Client Access to the Server App
-1.In the Azure portal go to the client application and click on API Permisions. 
+1.In the Azure portal go to the client application and click on API Permissions. 
 2.Click on Add Permsion
 3.Click on the My APIs Tab. 
 
@@ -66,7 +67,7 @@ First thing we have to do is create an AAD Application for the client side of th
 
 4.Click on the API we exposed from the server app. 
 5.Select the API.Access permission. 
-6.Click the "Add Permision" Button. 
+6.Click the "Add Permission" Button. 
 7.If you are a domain admin, you can grant that permission to this application on behalf of the users. If not, email your admin to do it for you. 
 
 ### Creating the dotnet Project
