@@ -26,7 +26,7 @@ First thing we have to do is create an AAD Application for our server applicatio
 
 ![New AAD App Screen](/assets/images/newaadapp.JPG)  
 
-6.Select if you want it only for your tenant or multi tenant (If you do multitenant please watch [this](http://) video to make sure your app is secure)
+6.Select if you want it only for your tenant or multi tenant (If you do multitenant please watch [this](https://www.youtube.com/watch?v=7v01ddMKRUQ) video to make sure your app is secure)
 7.Click Register. 
 
 ### Setting up the Server App in Azure
