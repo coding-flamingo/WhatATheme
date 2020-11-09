@@ -1,7 +1,6 @@
 ---
 title: Enable FIDO2 for Passwordless login in Azure
 layout: post
-comments_id: 1
 post-image: "/assets/images/FIDO2Settings.JPG"
 description: FIDO2 is a great leap forward in Security, by having your users use this
   instead of passwords for day to day usage, you can greatly improve your company's
@@ -11,6 +10,7 @@ tags:
 - Passwordless
 - Azure AD
 - AAD
+comments_id: 1
 ---
 
 Many of the most common hacking attacks start by stealing a password. Since it is hard for admins to prevent their users from falling for phishing attacks, or selecting hard passwords that are not re-used in their other accounts our super easy to crack.The tech community had to come up white a better way to protect our users, this is where FIDO2 comes in.  In this article we will set it up for our Azure users. 
@@ -21,7 +21,7 @@ FIDO2 is based on  standard public key cryptography. Basically the user has a ha
 
 But enought about the protocol let's talk about how to add it to your Azure environment :)
 ## Video Version
-coming soon :)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IeujiJ8BAS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Text Version
 ### How to Implement it in Azure
