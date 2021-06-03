@@ -29,7 +29,9 @@ Since the introduction of MacOS BigSur, Apple requires all software that runs on
 First thing we have to do is create your apple developer certificate.
 1. Open Keychain on your Mac
 2. On the top left Menu Select: Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority.
+
 ![New Cert request](/assets/images/RequestCert0.png)  
+
 3. Enter the information for the Certificate. 1) your email address, 2) the certificate Subject name (usually the name of your company or of your application) 3) your email address. 
 4. Select the save to disk radio button
 5. Click continue to create the CSR (Certificate Sigining Request)
